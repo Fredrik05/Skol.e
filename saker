@@ -1,0 +1,90 @@
+     <!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Norsk Orkide Parti</title>
+</head>
+<body>
+    <style>
+    body {background-color:#CBF717;
+    }
+    h1{
+        color:black;
+        text-align:center;
+    }
+    .topnav{
+        overflow:hidden;
+        background-color:white;
+        display:block;  
+       height:50
+     px;
+
+    }
+    
+    
+    n:White;
+        color:black;
+        display:block;
+        text-align:center;
+        padding:2px;
+    }
+    a:visited{
+        color:6666ff;
+    }
+    
+    a:hover{
+        color:#6666ff;
+        height:20px;
+    }
+    
+    a:active{
+        color:#33cccc;
+    }
+    
+      .header{
+          background-color:#FFFFFF;
+          height:100px;
+      }
+      .content {
+          background-color:#B5D9F7;
+          height:420px;
+      }
+      .footer {
+          background-color:#CD2222;
+          height:100px;
+      }
+    </style>
+    
+    <div class="header"><h1>Norsk Orkide parti!</h1></div>
+
+<div class="topnav">
+  <a class="active" herf="https://norskorkideparti.github.io/Parti.index/">Hjem</a>
+   <a class="active"herf="">Instagram</a>
+    <a class="active"herf="https://kylland.github.io/katt/index.html">Katt</a>
+    
+     <div class="content"><h3>Stem på Norsk orkide parti!</h3>
+          <h4>Vi er det beste partiet for 9. klassinger på Valstrand skole!
+<p>Vi vil ha Nynorsk ut av skolen!</p>
+<p>Vi vil sparke dårlige lærere!</p>
+<p>Vi vil ha gratis skolemat for alle!</p>
+<p>Vi vil ha mindre norsk til fordel for Gym og Svømming!</p>
+<p>Er det andre saker du er interrisert i? Spør oss på Instagram NOP_Orkide</p>
+NOP! Partiet for elever!
+</h4>
+    <img src="Screenshot 2020-01-28 at 13.48.28.png" 
+         alt="Vår logo" width="400" height="225">
+          
+          
+          
+          
+          
+</div>
+     
+    <div class="footer"><p>NOP 2020.</p> Contact on Instagram at NOP_Orkide</div>
+   
+</body>
+
+
+
+</html>
